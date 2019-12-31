@@ -55,7 +55,7 @@ https://www.slideshare.net/rayyankhalid35/introduction-to-tensorflow-213058272
     ```
 
 ## Run your Notebook
-Run you Notebook using the  
+Run you Notebook using the following command:
 
     ```bash
     jupyter notebook NOTEBOOK_NAME
